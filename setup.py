@@ -31,6 +31,8 @@ setup(
     long_description=readme + '\n\n' + history,
     author="Ash Christopher",
     author_email='ash.christopher@gmail.com',
+    maintainer="Nikolay Bryskin",
+    maintainer_email='nbryskin@gmail.com',
     url='https://github.com/ashchristopher/django-pgcli',
     packages=[
         'django_pgcli',
